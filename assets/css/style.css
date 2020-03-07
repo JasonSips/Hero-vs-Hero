@@ -11,35 +11,35 @@
 
 #div1 {
     height: 33vh;
-    border-style: solid;
-    border-color: black;
+    /* border-style: solid; */
+    /* border-color: black; */
     text-align: center;
     }
 
 #div2 {
-    border-style: solid;
-    border-color: black;
+    /* border-style: solid; */
+    /* border-color: black; */
     height: 33vh;
 
 }
 
 #div2-1 {
-    border-style: dotted;
+    /* border-style: dotted; */
     /* width: 36vw; */
     height: 33vh;
     text-align: center;
 }
 
 #div2-2 {
-    border-style: dotted;
+    /* border-style: dotted; */
     /* width: 36vw; */
     height: 33vh;
     text-align: center;
 }
 
 #div3 {
-    border-style: solid;
-    border-color: black;
+    /* border-style: solid; */
+    /* border-color: black; */
     height: 38vh;
     
     
